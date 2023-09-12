@@ -22,8 +22,8 @@ title: Y2PL TOY PROJECT
 email: blahblah@blahblah.com
 description: >- # this means to ignore newlines until "baseurl:"
   토이프로젝트 이것저것 작성 공간
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/meeting-log" # the subpath of your site, e.g. /blog
+url: "https://team-y2pl.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  jekyll
 
 # Build settings
