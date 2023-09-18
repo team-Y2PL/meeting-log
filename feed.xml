@@ -1,4 +1,37 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://team-y2pl.github.io/meeting-log/feed.xml" rel="self" type="application/atom+xml" /><link href="https://team-y2pl.github.io/meeting-log/" rel="alternate" type="text/html" /><updated>2023-09-12T09:32:24+09:00</updated><id>https://team-y2pl.github.io/meeting-log/feed.xml</id><title type="html">Y2PL TOY PROJECT</title><subtitle>토이프로젝트 이것저것 작성 공간</subtitle><entry><title type="html">23년 9월 9일 토이 프로젝트 회의록</title><link href="https://team-y2pl.github.io/meeting-log/meeting/2023/09/09/meeting-log.html" rel="alternate" type="text/html" title="23년 9월 9일 토이 프로젝트 회의록" /><published>2023-09-09T21:30:00+09:00</published><updated>2023-09-09T21:30:00+09:00</updated><id>https://team-y2pl.github.io/meeting-log/meeting/2023/09/09/meeting-log</id><content type="html" xml:base="https://team-y2pl.github.io/meeting-log/meeting/2023/09/09/meeting-log.html"><![CDATA[<h2 id="duedate">DueDate</h2>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://team-y2pl.github.io/meeting-log/feed.xml" rel="self" type="application/atom+xml" /><link href="https://team-y2pl.github.io/meeting-log/" rel="alternate" type="text/html" /><updated>2023-09-18T09:57:18+09:00</updated><id>https://team-y2pl.github.io/meeting-log/feed.xml</id><title type="html">Y2PL TOY PROJECT</title><subtitle>토이프로젝트 이것저것 작성 공간</subtitle><entry><title type="html">23년 9월 16일 토이 프로젝트 회의록</title><link href="https://team-y2pl.github.io/meeting-log/meeting/2023/09/16/meeting-log.html" rel="alternate" type="text/html" title="23년 9월 16일 토이 프로젝트 회의록" /><published>2023-09-16T22:30:00+09:00</published><updated>2023-09-16T22:30:00+09:00</updated><id>https://team-y2pl.github.io/meeting-log/meeting/2023/09/16/meeting-log</id><content type="html" xml:base="https://team-y2pl.github.io/meeting-log/meeting/2023/09/16/meeting-log.html"><![CDATA[<h2 id="회의시에-해야할-일">회의시에 해야할 일</h2>
+<ul>
+  <li>저번 스프린트에 진행했던 일 공유</li>
+  <li>다음 스프린트에 진행했던 일 정하기</li>
+</ul>
+
+<h2 id="todo">TODO</h2>
+<ul>
+  <li>나현 : 기획 정리 디테일하게</li>
+  <li>현희 : BE 공통 기능 개발
+    <ul>
+      <li>인증 체계 구현
+        <ul>
+          <li>간단하게 아이디 비밀번호만</li>
+          <li>약관 알아보기</li>
+          <li>자체로그인만 구현</li>
+          <li>jwt 사용</li>
+        </ul>
+      </li>
+    </ul>
+  </li>
+  <li>광태 :</li>
+  <li>상문 :
+    <ul>
+      <li>9월 19일 페어 프로그래밍</li>
+      <li>로그인 / 회원 가입 분배</li>
+    </ul>
+  </li>
+  <li>공통 :
+    <ul>
+      <li>git branch 전략 확인</li>
+    </ul>
+  </li>
+</ul>]]></content><author><name></name></author><category term="meeting" /><summary type="html"><![CDATA[회의시에 해야할 일 저번 스프린트에 진행했던 일 공유 다음 스프린트에 진행했던 일 정하기]]></summary></entry><entry><title type="html">23년 9월 9일 토이 프로젝트 회의록</title><link href="https://team-y2pl.github.io/meeting-log/meeting/2023/09/09/meeting-log.html" rel="alternate" type="text/html" title="23년 9월 9일 토이 프로젝트 회의록" /><published>2023-09-09T21:30:00+09:00</published><updated>2023-09-09T21:30:00+09:00</updated><id>https://team-y2pl.github.io/meeting-log/meeting/2023/09/09/meeting-log</id><content type="html" xml:base="https://team-y2pl.github.io/meeting-log/meeting/2023/09/09/meeting-log.html"><![CDATA[<h2 id="duedate">DueDate</h2>
 <ul>
   <li>개발 3개월 -&gt; 배포 내년 1월</li>
 </ul>
