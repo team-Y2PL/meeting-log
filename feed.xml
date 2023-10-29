@@ -1,4 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://team-y2pl.github.io/meeting-log/feed.xml" rel="self" type="application/atom+xml" /><link href="https://team-y2pl.github.io/meeting-log/" rel="alternate" type="text/html" /><updated>2023-10-23T10:00:11+09:00</updated><id>https://team-y2pl.github.io/meeting-log/feed.xml</id><title type="html">Y2PL TOY PROJECT</title><subtitle>토이프로젝트 이것저것 작성 공간</subtitle><entry><title type="html">23년 10월 21일 토이 프로젝트 회의록</title><link href="https://team-y2pl.github.io/meeting-log/meeting/2023/10/21/meeting-log.html" rel="alternate" type="text/html" title="23년 10월 21일 토이 프로젝트 회의록" /><published>2023-10-21T18:30:00+09:00</published><updated>2023-10-21T18:30:00+09:00</updated><id>https://team-y2pl.github.io/meeting-log/meeting/2023/10/21/meeting-log</id><content type="html" xml:base="https://team-y2pl.github.io/meeting-log/meeting/2023/10/21/meeting-log.html"><![CDATA[<ul>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.3.2">Jekyll</generator><link href="https://team-y2pl.github.io/meeting-log/feed.xml" rel="self" type="application/atom+xml" /><link href="https://team-y2pl.github.io/meeting-log/" rel="alternate" type="text/html" /><updated>2023-10-29T12:48:44+09:00</updated><id>https://team-y2pl.github.io/meeting-log/feed.xml</id><title type="html">Y2PL TOY PROJECT</title><subtitle>토이프로젝트 이것저것 작성 공간</subtitle><entry><title type="html">23년 10월 28일 토이 프로젝트 회의록</title><link href="https://team-y2pl.github.io/meeting-log/meeting/2023/10/28/meeting-log.html" rel="alternate" type="text/html" title="23년 10월 28일 토이 프로젝트 회의록" /><published>2023-10-28T21:30:00+09:00</published><updated>2023-10-28T21:30:00+09:00</updated><id>https://team-y2pl.github.io/meeting-log/meeting/2023/10/28/meeting-log</id><content type="html" xml:base="https://team-y2pl.github.io/meeting-log/meeting/2023/10/28/meeting-log.html"><![CDATA[<h2 id="지난주-진행한-내용-공유">지난주 진행한 내용 공유</h2>
+
+<ul>
+  <li>광태 : 화면 작업 내용 공유</li>
+  <li>나현 : api 엔드포인트 7개 문서 작성 &amp; 골팅 상세설명 필드 추가</li>
+</ul>
+
+<h2 id="todo">TODO</h2>
+
+<ul>
+  <li>상문 : dev 서버 환경세팅</li>
+  <li>광태 : 나머지 화면 껍데기 그리기</li>
+  <li>나현 : api 엔드포인트 개발 시작</li>
+</ul>]]></content><author><name></name></author><category term="meeting" /><summary type="html"><![CDATA[지난주 진행한 내용 공유]]></summary></entry><entry><title type="html">23년 10월 21일 토이 프로젝트 회의록</title><link href="https://team-y2pl.github.io/meeting-log/meeting/2023/10/21/meeting-log.html" rel="alternate" type="text/html" title="23년 10월 21일 토이 프로젝트 회의록" /><published>2023-10-21T18:30:00+09:00</published><updated>2023-10-21T18:30:00+09:00</updated><id>https://team-y2pl.github.io/meeting-log/meeting/2023/10/21/meeting-log</id><content type="html" xml:base="https://team-y2pl.github.io/meeting-log/meeting/2023/10/21/meeting-log.html"><![CDATA[<ul>
   <li>도메인 생성</li>
   <li>
     <p>패키지 구조화</p>
